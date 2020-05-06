@@ -9,7 +9,7 @@ contains coded IR CSV Files.
 
 ### 2. Merging_Intercoder_Reliability_files.ipynb
 a jupyter notebook that cleans and processes the data from 'Coding Files' Folder. The coded files needs to be changed into a general 
-format so that it could be used for calculating Inter-coder Reliability and further as Datasets for Classification.
+format so that it could be used for calculating Inter-coder Reliability and further serve as Datasets for Classification.
 They generate following Directories:
 - MergedFiles-SALLY: Contains CSV Files coded by Sally
 - MergedFiles-struck: Contains CSV Files coded by Trixy
