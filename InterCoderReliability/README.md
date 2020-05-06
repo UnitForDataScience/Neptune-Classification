@@ -19,4 +19,4 @@ They generate following Directories:
 
 ### 3. Calculating_Kappa_Alpha_Score.ipynb
 a jupyter notebook that calculates Inter-coder Reliability metrics: Kappa Score and Alpha Score.
-We want to calculate the intercoder reliability scores between Sally and Trixy and also between Sally and Frenard. Then we want to compare the scores of Sally-Trixy and Sally-Frenard, to know whose sentences (Trixy or Frenard's) are more compatible with Sally's sentences.
+We want to calculate the intercoder reliability scores between Sally and Trixy and also between Sally and Frenard. Then we want to compare the scores of Sally-Trixy and Sally-Frenard, to know whose sentences (Trixy or Frenard's) are more compatible with Sally's sentences. Only <b> useful </b> sentences were considered
